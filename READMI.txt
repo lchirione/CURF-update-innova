@@ -1,0 +1,12 @@
+Este script realiza una serie de tareas para actualizar modulos del programa Innova. Algunas de las tareas que se llevan a cabo incluyen:
+
+1- Establecer la carpeta de origen y la carpeta de destino.
+2- Eliminar la carpeta de destino si existe.
+3- Crear la carpeta de destino.
+4- Copiar todas las carpetas del directorio de origen y sus subdirectorios al directorio de destino.
+5- Mostrar un mensaje de alerta para avisar al usuario de que se va a actualizar Innova.
+6- Detener Innova.
+7- Reemplazar los módulos de Innova en la carpeta de destino.
+8- Eliminar la carpeta de origen "TEMP-INNOVA".
+9 -Mostrar otro mensaje de alerta para avisar al usuario de que la actualización se ha realizado correctamente.
+10- Redirigir la salida del script a un archivo de texto llamado "log-update-innova.txt" en la carpeta "C:".
